@@ -1,0 +1,58 @@
+[33mcommit 1011f1d07d38907afc4c8e52d501a2766d0f0d53[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: fernandocampi <fernandocampi@hotmail.com>
+Date:   Sat May 24 19:11:16 2025 -0300
+
+    Revert "adicionando um arquivo"
+    
+    This reverts commit 630bccebc63662e497530d423e81d0f07f1d07f8.
+
+ teste.txt | Bin [31m12[m -> [32m0[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 630bccebc63662e497530d423e81d0f07f1d07f8[m[33m ([m[1;32mmain[m[33m)[m
+Author: fernandocampi <fernandocampi@hotmail.com>
+Date:   Sat May 24 19:02:23 2025 -0300
+
+    adicionando um arquivo
+
+ teste.txt | Bin [31m0[m -> [32m12[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 275b2d4bc8c3c46092af1b3890dd1f4a17bcb38b[m
+Author: fernandocampi <fernandocampi@hotmail.com>
+Date:   Sat May 24 18:48:33 2025 -0300
+
+    inclusão de changelog.md
+
+ changelog.md | 10 [32m++++++++++[m
+ 1 file changed, 10 insertions(+)
+
+[33mcommit 598734b9f9714ec5cff5daa8c0a91a11be294ecb[m
+Author: fernandocampi <fernandocampi@hotmail.com>
+Date:   Sat May 24 18:40:03 2025 -0300
+
+    colocando acentuação no arquivo2.txt
+
+ arquivo2.txt | Bin [31m36[m -> [32m36[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 57362433670f22a839186b040d2f23ff39eaeb85[m
+Author: fernandocampi <fernandocampi@hotmail.com>
+Date:   Sat May 24 18:38:20 2025 -0300
+
+    alterando o conteudo de arquivo2.txt
+
+ arquivo2.txt | Bin [31m34[m -> [32m36[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 397d892cbe7e7d6c67a118a2e11a5e56fc6ad3a1[m
+Author: fernandocampi <fernandocampi@hotmail.com>
+Date:   Sat May 24 18:33:51 2025 -0300
+
+    inclusão de novos arquivos
+    
+    inclusão dos arquivos: arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | Bin [31m0[m -> [32m26[m bytes
+ arquivo2.txt | Bin [31m0[m -> [32m34[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
